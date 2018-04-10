@@ -1,6 +1,9 @@
 EESchema Schematic File Version 2
 LIBS:power
 LIBS:device
+LIBS:switches
+LIBS:relays
+LIBS:motors
 LIBS:transistors
 LIBS:conn
 LIBS:linear
@@ -749,4 +752,6 @@ Wire Wire Line
 Wire Wire Line
 	1750 3700 1750 5500
 NoConn ~ 1600 3550
+Text Notes 4550 5750 0    60   ~ 0
+Version: 4.10.18
 $EndSCHEMATC

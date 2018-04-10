@@ -662,11 +662,9 @@ Connection ~ 3250 1300
 Wire Wire Line
 	3250 1300 3250 1500
 Wire Wire Line
-	2200 3200 1750 3200
-Wire Wire Line
 	2200 2750 2200 3200
 Wire Wire Line
-	2000 2750 2200 2750
+	2200 2750 2000 2750
 Wire Wire Line
 	2300 3800 1750 3800
 Wire Wire Line
@@ -734,7 +732,7 @@ NoConn ~ 10450 2100
 NoConn ~ 8300 6300
 NoConn ~ 1550 6300
 NoConn ~ 1300 4500
-Text Notes 1200 3700 1    60   ~ 0
+Text Notes 1250 3450 1    60   ~ 0
 Going with pot\n
 $Comp
 L POT RV1
@@ -745,13 +743,17 @@ F 1 "POT" V 1650 3550 50  0000 C CNN
 F 2 "" H 1750 3550 50  0001 C CNN
 F 3 "" H 1750 3550 50  0001 C CNN
 	1    1750 3550
-	-1   0    0    1   
+	0    1    1    0   
 $EndComp
 Wire Wire Line
-	1750 3200 1750 3400
-Wire Wire Line
 	1750 3700 1750 5500
-NoConn ~ 1600 3550
 Text Notes 4550 5750 0    60   ~ 0
 Version: 4.10.18
+Wire Wire Line
+	1900 3550 1900 3200
+Wire Wire Line
+	1900 3200 2200 3200
+Wire Wire Line
+	1600 3550 1050 3550
+Connection ~ 1050 3550
 $EndSCHEMATC
