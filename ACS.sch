@@ -740,7 +740,7 @@ U 1 1 5AC736A9
 P 1750 3550
 F 0 "RV1" V 1575 3550 50  0000 C CNN
 F 1 "POT" V 1650 3550 50  0000 C CNN
-F 2 "" H 1750 3550 50  0001 C CNN
+F 2 "Potentiometers:Potentiometer_Trimmer_Vishay_T73XW_Vertical" H 1750 3550 50  0001 C CNN
 F 3 "" H 1750 3550 50  0001 C CNN
 	1    1750 3550
 	0    1    1    0   
