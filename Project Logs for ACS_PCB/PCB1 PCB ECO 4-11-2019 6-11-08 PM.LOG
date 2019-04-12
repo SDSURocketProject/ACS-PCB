@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=VCC Pin=P6-1
+Removed Pin From Net: NetName=GND Pin=P6-2
+Removed Pin From Net: NetName=GND Pin=P6-3
+Removed Pin From Net: NetName=SGND Pin=P6-5
+Removed Member From Class: ClassName=Sheet1 Member=P6
+Added Component: Designator=K1(G6E-134P-US)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70381892"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/omron-electronic-components-g6e-134p-st-us-dc6/70381892/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Omron Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "G6E-134P-ST-US-DC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "653-G6E134PSTUSDC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=653-G6E134PSTUSDC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=K1-1
+Added Pin To Net: NetName=GND Pin=K1-6
+Added Pin To Net: NetName=SGND Pin=K1-7
+Added Pin To Net: NetName=GND Pin=K1-12
+Added Member To Class: ClassName=Sheet1 Member=Component K1 G6E-134P-ST-US-DC6

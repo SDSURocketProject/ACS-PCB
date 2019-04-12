@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=PB3 Pin=J2-7
+Added Pin To Net: NetName=IGN_OUT Pin=J2-7

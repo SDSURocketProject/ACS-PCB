@@ -1,0 +1,129 @@
+Removed Pin From Net: NetName=PD0 Pin=D1-2
+Removed Pin From Net: NetName=PD1 Pin=D2-2
+Removed Pin From Net: NetName=PD2 Pin=D3-2
+Removed Pin From Net: NetName=PD3 Pin=D4-2
+Removed Pin From Net: NetName=PD4 Pin=D5-2
+Removed Pin From Net: NetName=PD5 Pin=D6-2
+Removed Pin From Net: NetName=VCC Pin=D7-1
+Removed Pin From Net: NetName=PD6 Pin=D7-2
+Removed Pin From Net: NetName=GND Pin=D7-3
+Removed Pin From Net: NetName=VCC Pin=D7-6
+Removed Pin From Net: NetName=VCC Pin=D8-1
+Removed Pin From Net: NetName=PD7 Pin=D8-2
+Removed Pin From Net: NetName=GND Pin=D8-3
+Removed Pin From Net: NetName=VCC Pin=D8-6
+Removed Pin From Net: NetName=PB0 Pin=J1-1
+Removed Pin From Net: NetName=PB1 Pin=J1-2
+Removed Pin From Net: NetName=PB3 Pin=J1-6
+Removed Pin From Net: NetName=PB2 Pin=J1-7
+Removed Pin From Net: NetName=IGN_OUT Pin=J1-8
+Removed Pin From Net: NetName=PD7 Pin=J2-7
+Removed Pin From Net: NetName=GND Pin=P13-2
+Removed Pin From Net: NetName=GND Pin=P14-2
+Removed Member From Class: ClassName=Sheet1 Member=D7
+Removed Member From Class: ClassName=Sheet1 Member=D8
+Removed Member From Class: ClassName=Sheet1 Member=P13
+Removed Member From Class: ClassName=Sheet1 Member=P14
+Removed Member From Class: ClassName=Sheet1 Member=R9
+Removed Member From Class: ClassName=Sheet1 Member=R10
+Change Component Comment : Designator=D5 Old Comment=CH4 MPV New Comment=DIGITAL5
+Change Component Comment : Designator=P11 Old Comment=CH4 MPV LED New Comment=D5_LED
+Change Component Comment : Designator=D2 Old Comment=CH4 VNT New Comment=DIGITAL2
+Change Component Comment : Designator=P8 Old Comment=CH4 VNT LED New Comment=D2_LED
+Change Component Comment : Designator=A6 Old Comment=CH$ E-VNT New Comment=ANALOG6
+Change Component Comment : Designator=A1 Old Comment=HE FILL New Comment=ANALOG1
+Change Component Comment : Designator=A2 Old Comment=HE REL New Comment=ANALOG2
+Change Component Comment : Designator=A3 Old Comment=HE VNT New Comment=ANALOG3
+Change Component Comment : Designator=A5 Old Comment=LOX E-VNT New Comment=ANALOG5
+Change Component Comment : Designator=D4 Old Comment=LOX MPV New Comment=DIGITAL4
+Change Component Comment : Designator=P10 Old Comment=LOX MPV LED New Comment=D4_LED
+Change Component Comment : Designator=D1 Old Comment=LOX VNT New Comment=DIGITAL1
+Change Component Comment : Designator=P7 Old Comment=LOX VNT LED New Comment=D1_LED
+Change Component Comment : Designator=D6 Old Comment=MPV New Comment=IGNITER
+Change Component Comment : Designator=P12 Old Comment=MPV LED New Comment=D6_LED
+Change Component Comment : Designator=A4 Old Comment=PNU VNT New Comment=ANALOG4
+Change Component Comment : Designator=D3 Old Comment=VENT New Comment=DIGITAL3
+Change Component Comment : Designator=P9 Old Comment=VENT LED New Comment=D3_LED
+Added Component: Designator=A7(HDR1X6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=A8(HDR1X6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LEDC1608X65N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/SML-D12U1WT86.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SML-D12U1WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "755-SML-D12U1WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=755-SML-D12U1WT86"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1332870"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1332870"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SGND Pin=A7-3
+Added Pin To Net: NetName=VCC Pin=A7-6
+Added Pin To Net: NetName=SGND Pin=A8-3
+Added Pin To Net: NetName=VCC Pin=A8-6
+Added Pin To Net: NetName=PD2 Pin=D1-2
+Added Pin To Net: NetName=PD3 Pin=D2-2
+Added Pin To Net: NetName=PD4 Pin=D3-2
+Added Pin To Net: NetName=PD5 Pin=D4-2
+Added Pin To Net: NetName=PD6 Pin=D5-2
+Added Pin To Net: NetName=PD7 Pin=D6-2
+Added Pin To Net: NetName=PB0 Pin=J2-4
+Added Pin To Net: NetName=PB1 Pin=J2-5
+Added Pin To Net: NetName=PB2 Pin=J2-6
+Added Pin To Net: NetName=PB3 Pin=J2-7
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=A1 Pin=A1-2
+Added Pin To Net: NetName=A1 Pin=J1-1
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=A2-2
+Added Pin To Net: NetName=A2 Pin=J1-2
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=A3-2
+Added Pin To Net: NetName=A3 Pin=J1-3
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=A4-2
+Added Pin To Net: NetName=A4 Pin=J1-4
+Added Net: Name=A4
+Added Pin To Net: NetName=A5 Pin=A5-2
+Added Pin To Net: NetName=A5 Pin=J1-5
+Added Net: Name=A5
+Added Pin To Net: NetName=A6 Pin=A6-2
+Added Pin To Net: NetName=A6 Pin=J1-6
+Added Net: Name=A6
+Added Pin To Net: NetName=A7 Pin=A7-2
+Added Pin To Net: NetName=A7 Pin=J1-7
+Added Net: Name=A7
+Added Pin To Net: NetName=A8 Pin=A8-2
+Added Pin To Net: NetName=A8 Pin=J1-8
+Added Net: Name=A8
+Added Pin To Net: NetName=NetA7_5 Pin=A7-5
+Added Net: Name=NetA7_5
+Added Pin To Net: NetName=NetA8_5 Pin=A8-5
+Added Net: Name=NetA8_5
+Added Pin To Net: NetName=NetLED?_2 Pin=LED?-2
+Added Net: Name=NetLED?_2
+Added Pin To Net: NetName=NetP?_1 Pin=P?-1
+Added Net: Name=NetP?_1
+Added Member To Class: ClassName=Sheet1 Member=Component A7 ANALOG7
+Added Member To Class: ClassName=Sheet1 Member=Component A8 ANALOG8
+Added Member To Class: ClassName=Sheet1 Member=Component LED? SML-D12U1WT86
+Added Member To Class: ClassName=Sheet1 Member=Component P? LOX VNT LED
+Added Member To Class: ClassName=Sheet1 Member=Component P? LOX VNT LED

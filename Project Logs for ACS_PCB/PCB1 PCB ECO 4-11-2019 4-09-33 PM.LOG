@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=PB4 Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=IGN_OUT Pin=U2-3
+Removed Pin From Net: NetName=VCC Pin=U2-4
+Change Component Footprint: Designator=U2 Old Footprint=DIP-4 New Footprint=DIP762W50P254L712H450Q6N
+Change Component Comment : Designator=U2 Old Comment=Optoisolator1 New Comment=4N35
+Change component parameters: Designator = "U2"; Footprint = "DIP762W50P254L712H450Q6N"; UniqueID = "\LDFSNSLW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/597302"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Isocom"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "4N35"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "1712954"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1712954"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RESAD1550W60L630D230)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70300029"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/te-connectivity-yr1b1m0cc/70300029/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F1773265%7FA%7Fpdf%7FEnglish%7FENG_DS_1773265_A.pdf%7F2-1676913-7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "YR1B1M0CC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "279-YR1B1M0CC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=279-YR1B1M0CC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1649061"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1649061"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R17-2
+Added Pin To Net: NetName=IGN_OUT Pin=U2-4
+Added Pin To Net: NetName=VCC Pin=U2-5
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=U2-6
+Added Net: Name=NetR17_1
+Added Member To Class: ClassName=Sheet1 Member=Component P6 OMRON G6E-134P-US
+Added Member To Class: ClassName=Sheet1 Member=Component R17 1M
